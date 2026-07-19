@@ -1,24 +1,24 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-danhuynh1-blue?style=flat-square&logo=github)](https://github.com/danhuynh1)
+[![Followers](https://img.shields.io/github/followers/danhuynh1?label=Followers&style=flat-square)](https://github.com/danhuynh1)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hey there! I'm **Dan Huynh**, a Computer Science student at Wilfrid Laurier University and Computer Applications Development student at Conestoga College. I work on full-stack web applications, backend services, and creative projects with a focus on Python, JavaScript/TypeScript, and Java.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Waterloo, Ontario, Canada
+- 🎓 Education: WLU Computer Science (2021) & Conestoga College Computer Applications Development (2025)
+- 💼 Website: [danhuynh.xyz](https://danhuynh.xyz)
+- 📅 Hacking Since: 2018
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 💰 **FairFund** — A full-stack application for fair fund distribution and expense management with both frontend and backend services.
+  - 🎨 [FairFund-Frontend](https://github.com/danhuynh1/FairFund-Frontend) ([JavaScript](https://github.com/danhuynh1/FairFund-Frontend))
+  - 🔧 [FairFund-Backend](https://github.com/danhuynh1/FairFund-Backend) ([JavaScript](https://github.com/danhuynh1/FairFund-Backend))
+- 🚗 **CarDealership** — A Spring Boot application for managing car dealership operations and inventory. Group project collaboration. ([Java](https://github.com/danhuynh1/CarDealership)) — [github.com/danhuynh1/CarDealership](https://github.com/danhuynh1/CarDealership)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, JavaScript/TypeScript, Java, Swift, HTML/CSS
+- 🔭 Focus: Full-stack web development, APIs and backend services, Discord bots, mobile development
+- ❤️ Interests: Competitive coding, hackathons, open-source contributions, gaming APIs
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
