@@ -1,24 +1,47 @@
 [![GitHub Profile](https://img.shields.io/badge/GitHub-danhuynh1-blue?style=flat-square&logo=github)](https://github.com/danhuynh1)
 [![Followers](https://img.shields.io/github/followers/danhuynh1?label=Followers&style=flat-square)](https://github.com/danhuynh1)
 
-## About
-👋 Hey there! I'm **Dan Huynh**, a Computer Science student at Wilfrid Laurier University and Computer Applications Development student at Conestoga College. I work on full-stack web applications, backend services, and creative projects with a focus on Python, JavaScript/TypeScript, and Java.
+## Hi, I’m Dan Huynh
 
-- 📍 Location: Waterloo, Ontario, Canada
-- 🎓 Education: WLU Computer Science (2021) & Conestoga College Computer Applications Development (2025)
-- 💼 Website: [danhuynh.xyz](https://danhuynh.xyz)
-- 📅 Hacking Since: 2018
+I’m a Computer Science student at Wilfrid Laurier University and a Computer Applications Development student at Conestoga College. I build full-stack web applications, backend services, and creative side projects with a focus on Python, JavaScript/TypeScript, and Java.
+
+## What I’m Working On
+
+- Full-stack web development
+- APIs and backend services
+- Discord bots
+- Mobile development
+- Hackathon and open-source projects
 
 ## Featured Projects
-- 💰 **FairFund** — A full-stack application for fair fund distribution and expense management with both frontend and backend services.
-  - 🎨 [FairFund-Frontend](https://github.com/danhuynh1/FairFund-Frontend) ([JavaScript](https://github.com/danhuynh1/FairFund-Frontend))
-  - 🔧 [FairFund-Backend](https://github.com/danhuynh1/FairFund-Backend) ([JavaScript](https://github.com/danhuynh1/FairFund-Backend))
-- 🚗 **CarDealership** — A Spring Boot application for managing car dealership operations and inventory. Group project collaboration. ([Java](https://github.com/danhuynh1/CarDealership)) — [github.com/danhuynh1/CarDealership](https://github.com/danhuynh1/CarDealership)
 
-## Tech & Interests
-- 🧰 Languages: Python, JavaScript/TypeScript, Java, Swift, HTML/CSS
-- 🔭 Focus: Full-stack web development, APIs and backend services, Discord bots, mobile development
-- ❤️ Interests: Competitive coding, hackathons, open-source contributions, gaming APIs
+- **FairFund** — A full-stack application for fair fund distribution and expense management.
+  - [FairFund-Frontend](https://github.com/danhuynh1/FairFund-Frontend)
+  - [FairFund-Backend](https://github.com/danhuynh1/FairFund-Backend)
+- **CarDealership** — A Spring Boot application for managing car dealership operations and inventory.
+  - [CarDealership](https://github.com/danhuynh1/CarDealership)
+
+## Tech Stack
+
+- Python
+- JavaScript / TypeScript
+- Java
+- Swift
+- HTML / CSS
+
+## Quick Facts
+
+- Waterloo, Ontario, Canada
+- WLU Computer Science (2021) and Conestoga College Computer Applications Development (2025)
+- [danhuynh.xyz](https://danhuynh.xyz)
+- Hacking since 2018
+
+## Interests
+
+- Competitive coding
+- Hackathons
+- Open-source contributions
+- Gaming APIs
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
